@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEgyCFvJi4yHMgKedNDqGeoX-pfA_wAD6rtKSWS6vT-XYHSeVGtFeAxgmI2u_yyfTB9cZXucq2u7kYuVJ5SBxY0-AwQ8jymEUVpwWE9fbKOa3zqOjBW-MeeabGb2psTZCIu0TA2Yf_VAThoMqaioufUCMFrkMakkBSeSI6W8dWBVQZ_g7MUMWW5zIjEwXGLN=s1600-rw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1 {
+    font-weight: bolder;
+    text-align: center;
+}
+p {
+    font-weight:400;
+    font-size:109%;
+    text-align: center;
+    font-style:oblique;
+}
+form{ 
+     background: linear-gradient(to top, #745D60,#E18061 ) ;
+     height: 40pc;
+     width: 30pc;
+     margin: 0 auto;
+     margin-top: 70px;
+     border-radius: 5%;
+     padding: 10px 60px;
+     
+
+}
+input {
+    height:40px;
+    width: 400px;
+    border: 2px solid #E99F70 ;
+
+    border-radius: 10px ;
+}
+textarea{
+    height:80px;
+    width: 400px;
+    border: 2px solid #E99F70 ;
+    border-radius: 10px ;
+}
+button{
+    height:40px;
+    width: 410px;
+    border: 2px solid #E99F70 ;
+    background:linear-gradient(to right ,#EA9C6E ,#EA6E52);
+    border-radius: 10px ;
+    
+    
+}
+div{
+    margin-left: 35px;
+}
